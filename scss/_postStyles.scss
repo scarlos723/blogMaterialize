@@ -1,0 +1,10 @@
+//estilos de post.html
+
+.post-pic{
+    width: 100%;
+    height: 400px;
+    background-image: url('https://picsum.photos/1000/400');//trae una imagen random de dimenciones 1000x400
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
